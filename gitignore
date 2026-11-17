@@ -1,0 +1,22 @@
+# Entorno virtual
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Datos generados por el pipeline
+data/
+
+# Secretos y configuración local
+.env
+
+# Sistema / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
